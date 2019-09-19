@@ -3,10 +3,6 @@
 // Version 3.7
 // Date	2018/06/22
 // Authors:	Chris Szalwinski, Fardad Soleimanloo, cornel
-//
-// For your final test before submission:
-//      DO NOT MODIFY THIS FILE IN ANY WAY
-// Revision History
 // -----------------------------------------------------------
 // Name Kimin Lee          Date 2019-8-3
 /////////////////////////////////////////////////////////////////
